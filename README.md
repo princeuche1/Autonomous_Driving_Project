@@ -1,6 +1,5 @@
-# AWS Self Driving Car submission in AWS DeepRace-2019
 
-In 2019 I participated in Amazon Web Services Deep Race Competition in Re:Invent event held every year. I had selected the Toronto Turnpipe Roadmap for simulating my DeepRacer Bot. 
+
 
 ### Resources and Packages Used
 
@@ -19,13 +18,13 @@ In 2019 I participated in Amazon Web Services Deep Race Competition in Re:Invent
 
 ### Training the Model
 
-![actionspace](https://github.com/ShrishtiHore/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/actionspace.png)
+![actionspace](https://github.com/princeuche1/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/actionspace.png)
 
-![tabledegree](https://github.com/ShrishtiHore/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/table.png)
+![tabledegree](https://github.com/princeuche1/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/table.png)
 
 ### Hyperparameter Tuning
 
-![hyperparameter](https://github.com/ShrishtiHore/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/hyper.jpeg)
+![hyperparameter](https://github.com/princeuche1/AWS_Self_Driving-Car-AWS_DeepRace_2019/blob/master/hyper.jpeg)
 
 ### Results
-- Submission was successful clearling all the required test cases with a time of 42 secs. Thus getting in the leaderboard of the event !
+- Submission was successful clearling all the required test cases with a time of 42 secs.
